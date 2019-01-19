@@ -3,6 +3,7 @@ using System;
 
 namespace WP1
 {
+
     public class Item
     {
         public string itemType;
